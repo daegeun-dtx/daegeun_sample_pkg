@@ -1,7 +1,8 @@
 name: daegeun_sample_pkg
 description: "A new Flutter sample package."
 version: 0.1.0
-#homepage:
+homepage: https://github.com/daegeun-dtx/daegeun_sample_pkg
+publish_to: none
 
 environment:
   sdk: '>=3.2.6 <4.0.0'
